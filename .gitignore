@@ -1,0 +1,7 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+
+# VS Code workspace-specific junk (keep tasks.json/launch.json, ignore user state)
+.vscode/*.log
